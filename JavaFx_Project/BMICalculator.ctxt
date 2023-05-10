@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=BMICalculator
+comment1.params=primaryStage
+comment1.target=void\ start(javafx.stage.Stage)
+comment2.params=
+comment2.target=void\ calculateBMI()
+comment3.params=status\ alertType
+comment3.target=void\ statusBMI(java.lang.String,\ javafx.scene.control.Alert.AlertType)
+numComments=4
